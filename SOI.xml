@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="0">
+  <channel>
+    <title>FireTv Export</title>
+    <pubDate>Fri, 07 May 2021 13:42:48 GMT</pubDate>
+    <image>
+      <title>Channel image title goes here</title>
+      <url>Channel image url goes here</url>
+    </image>
+    <item>
+      <title>Spirit of Innovation - April 2021</title>
+      <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+      <description>April edition of Spirit of Innovation</description>
+      <guid isPermaLink="false">4894f0e93ed44764bcdcd17d476c3e47</guid>
+      <media:category>Full Episodes</media:category>
+      <media:content url="https://vimeo.com/529095764" duration="1111">
+        <media:title>Spirit of Innovation - April 2021</media:title>
+        <media:thumbnail url="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://spiritofinnovation.org/wp-content/uploads/2021/04/footer-logo.png" />
+      </media:content>
+    </item>
+    <item>
+      <title>Stromsoe Insurance Agency</title>
+      <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+      <description>Stromsoe Insurance Agency Dedicated to Helping Local Nonprofits</description>
+      <guid isPermaLink="false">0fcf51579e6e48d181d3cf1fd950ba4b</guid>
+      <media:category>SOI Segments</media:category>
+      <media:content url="https://vimeo.com/516956982" duration="137">
+        <media:title>Stromsoe Insurance Agency</media:title>
+        <media:thumbnail url="https://spiritofinnovation.org/wp-content/uploads/2021/04/footer-logo.png" />
+      </media:content>
+    </item>
+  </channel>
+</rss>
