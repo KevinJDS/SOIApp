@@ -1,0 +1,63 @@
+{
+  "lastUpdated": "2021-05-07T01:26:21+00:00",
+  "providerName": "Vimeo",
+  "language": "en-US",
+  "shortFormVideos": [
+    {
+      "id": "4894f0e93ed44764bcdcd17d476c3e47",
+      "title": "Spirit of Innovation - April 2021",
+      "content": {
+        "dateAdded": "2021-05-07T13:14:17+00:00",
+        "videos": [
+          {
+            "url": "https://vimeo.com/529095764",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1111
+      },
+      "thumbnail": "https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://spiritofinnovation.org/wp-content/uploads/2021/04/footer-logo.png",
+      "shortDescription": "April edition of Spirit of Innovation",
+      "releaseDate": "2021-05-07",
+      "longDescription": "April edition of Spirit of Innovation",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "0fcf51579e6e48d181d3cf1fd950ba4b",
+      "title": "Stromsoe Insurance Agency",
+      "content": {
+        "dateAdded": "2021-05-07T13:25:08+00:00",
+        "videos": [
+          {
+            "url": "https://vimeo.com/516956982",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 137
+      },
+      "thumbnail": "https://spiritofinnovation.org/wp-content/uploads/2021/04/footer-logo.png",
+      "shortDescription": "Stromsoe Insurance Agency Dedicated to Helping Local Nonprofits",
+      "releaseDate": "2021-05-07",
+      "longDescription": "Stromsoe Insurance Agency Dedicated to Helping Local Nonprofits",
+      "tags": [
+        "Special"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Full Episodes",
+      "query": "News",
+      "order": "most_recent"
+    },
+    {
+      "name": "SOI Segments",
+      "query": "Special",
+      "order": "most_recent"
+    }
+  ]
+}
